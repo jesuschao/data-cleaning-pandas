@@ -52,6 +52,12 @@ def type_2(x):
     else:
         return x
 
+def type_3(x):
+    if "Boating" in str(x):
+        return x.replace("Boating", "Boat")
+    else:
+        return x
+
 def upper_c(x):
     return str(x).upper()
 
