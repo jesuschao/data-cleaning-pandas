@@ -1,6 +1,6 @@
 # [data-cleaning-pandas] Jesús Chao
 
-<img src= "ZU6N5vqxKYY8PZnnngn4_nIE6Rgdb_nA2hfgTBbmJiA.jpg">
+<img src= "Imagen/ZU6N5vqxKYY8PZnnngn4_nIE6Rgdb_nA2hfgTBbmJiA.jpg">
 
 OBJETIVO.
 
