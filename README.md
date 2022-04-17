@@ -1,35 +1,41 @@
-# [data-cleaning-pandas] Jesús Chao
+# DATA CLEANING of sharks file using pandas.
 
 <img src= "Imagen/ZU6N5vqxKYY8PZnnngn4_nIE6Rgdb_nA2hfgTBbmJiA.jpg">
 
-OBJETIVO.
+### PURPOSE.
 
-En base a un archivo csv tomado de kaggle, hacemos una limpieza de datos que me permita validar mis hipótesis. Los resultados de dicha validación se muestran visualmente a través de gráficas.
+Having taken a csv file from [Kaggle](https://www.kaggle.com/teajay/global-shark-attacks), I have proceeded with data cleaning that allows me validate my hypothesis. The results from mentioned validation has been showed visually on charts.
 
-PROCESO.
+### PROCEDURE.
 
-En lineas generales el procedimiento seguido sería el siguiente.
+More generally, the procedure used would be as follows. 
 
-1- Entender los datos de la tabla y hacer una primera limpieza.
+1- Understanding data from dataset and make a first cleaning.
 
-2- Hacer una serie de hipótesis que, en mi caso, son las siguientes:
-- USA es el pais donde más accidentes de tiburón se producen.
-- La mayor parte de los accidentes son no provocados.
-- Fishing y Surfing; mayores causas de accidentes.
-- Mueren más hombres que mujeres.
+2- I have prepared four hypothesis that, in my case, would be the following:
+- USA is country that have the most quantity of accidents caused by shark attack.
+- The major part of the accidents are non provoked.
+- Fishing and Surfing are the major causes of accidents.
+- More men die due to this cause of accident than women.
 
-3- Limpieza de datos y validación.
+3- Cleaning and validation.
 
-4- Representación de datos en gráficas.
+4- Showing data on charts.
 
-BIBLIOGRAFÍA y RECURSOS.
+### BIBLIOGRAPHIC REFERENCES and RESOURCES.
 
-https://www.kaggle.com/teajay/global-shark-attacks
-https://numpy.org/doc/1.18/
-https://pandas.pydata.org/
-https://docs.python.org/3/library/functions.html
-https://plotly.com/python/
-https://matplotlib.org/
-https://seaborn.pydata.org/
-https://pandas.pydata.org/docs/
-https://stackoverflow.com/
+[Kaggle](https://www.kaggle.com/teajay/global-shark-attacks)
+
+[Numpy](https://numpy.org/doc/1.18/)
+
+[Pandas](https://pandas.pydata.org/)
+
+[Python.org](https://docs.python.org/3/library/functions.html)
+
+[Plotly](https://plotly.com/python/)
+
+[Matplotlib](https://matplotlib.org/)
+
+[Seaborn](https://seaborn.pydata.org/)
+
+[Stackoverflow](https://stackoverflow.com/)
